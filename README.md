@@ -7,10 +7,10 @@ Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente
 ### 📊 Minha Atividade no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaomagno1/joaomagno1/main/dist/github-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/joaomagno1/joaomagno1/main/dist/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaomagno1/joaomagno1/main/dist/contributions-graph.svg" alt="Contribution Chart"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joaomagno1&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
 ---
@@ -20,8 +20,6 @@ Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente
 <p align="center">
   <img src="https://novatorem-7a7p1a8no-novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=1db954" alt="Spotify Now Playing"/>
 </p>
-
-**Aviso:** Para o card do Spotify funcionar, pode ser necessário que você acesse a imagem acima pelo seu navegador e autorize o acesso à sua conta do Spotify (é um processo único e seguro).
 
 ---
 

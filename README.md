@@ -15,10 +15,10 @@ Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente
 
 ---
 
-### 🎵 Ouvindo Agora no Spotify
+### 🎵 Ouvindo Agora no Spotify (Versão Melhorada)
 
 <p align="center">
-  <img src="https://novatorem-7a7p1a8no-novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=1db954" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=joaomagno1&cover_image=true&theme=default&show_offline=true&background_color=121212" alt="Spotify Now Playing"/>
 </p>
 
 ---

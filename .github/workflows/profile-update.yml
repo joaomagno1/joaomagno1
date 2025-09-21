@@ -1,0 +1,41 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Profile Assets
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: sallar/github-contributions-chart@v2.1.3
+        with:
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          out_file: dist/contributions-graph.svg
+
+      - name: Commit and push generated assets
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/*.svg
+          git commit -m "chore: update profile assets" || exit 0
+          git push

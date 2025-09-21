@@ -1,7 +1,8 @@
-name: Generate Profile Assets
+name: Generate Snake Animation
 
 on:
   schedule:
+    # Roda a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -14,12 +15,12 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Profile Assets
+    name: Generate Snake Animation
 
     steps:
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobra (esta está funcionando)
+      # Gera a animação da cobra
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,18 +28,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # TENTATIVA FINAL com a versão @latest
-      - uses: sallar/github-contributions-chart@latest
-        with:
-          user: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          out_file: dist/contributions-graph.svg
-
-      # Faz o commit dos arquivos
-      - name: Commit and push generated assets
+      # Faz o commit da animação
+      - name: Commit and push snake animation
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add dist/*.svg
-          git commit -m "chore: update profile assets" || exit 0
+          git commit -m "chore: update snake animation" || exit 0
           git push

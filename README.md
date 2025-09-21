@@ -18,7 +18,9 @@ Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente
 ### 🎵 Ouvindo Agora no Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fgbr7xzy2pex4z75qra4t5im5e&cover_image=true&theme=default&show_offline=true&background_color=121212" alt="Spotify Now Playing"/>
+  <a href="http://googleusercontent.com/spotify.com/9">
+    <img src="https://readme-spotify.vercel.app/api/now-playing" alt="Spotify Now Playing" width="350"/>
+  </a>
 </p>
 
 ---

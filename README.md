@@ -15,14 +15,6 @@ Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente
 
 ---
 
-### 🎵 Ouvindo Agora no Spotify
-
-<p align="center">
-  <img src="https://readme-spotify.vercel.app/api/now-playing" alt="Spotify Now Playing" width="350"/>
-</p>
-
----
-
 ### 💻 Tecnologias
 
 <p align="center">
@@ -39,4 +31,16 @@ Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente
   <img src="https://img.shields.io/badge/-VirtualBox-2B587A?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Contato
+
+<p align="center">
+  <a href="mailto:joao27012006@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-NO-LINKEDIN">
+    <img src="https://img.shields

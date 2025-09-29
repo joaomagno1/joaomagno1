@@ -1,6 +1,6 @@
-# E aí, eu sou o João Magno! 👋
+# E aí, João Magno aqui! 👋
 
-Sou um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente estou cursando Tecnologia e Sistemas para Internet, focando em aprimorar minhas habilidades em desenvolvimento de software e explorar novas tecnologias.
+Um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente estou cursando Tecnologia e Sistemas para Internet, focando em aprimorar minhas habilidades em desenvolvimento de software e explorar novas tecnologias.
 
 ---
 

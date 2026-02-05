@@ -1,46 +1,78 @@
-# E aí, João Magno aqui! 👋
+# Olá, sou o João Magno! 👋
+## Acadêmico em Tecnologia e Sistemas para Internet | IFSP
 
-Um estudante do Instituto Federal de São Paulo - Campus Birigui. Atualmente estou cursando Tecnologia e Sistemas para Internet, focando em aprimorar minhas habilidades em desenvolvimento de software e explorar novas tecnologias.
+Estudante de graduação no **Instituto Federal de São Paulo (Campus Birigui)**, focado na construção de uma base sólida em Engenharia de Software. Meu objetivo é transformar teoria acadêmica em código limpo, performático e escalável.
 
----
-
-### 📊 Minha Atividade no GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaomagno1/joaomagno1/main/dist/github-snake-dark.svg" alt="Snake Animation"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaomagno1&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
-</p>
+Atualmente, dedico meus estudos a **Programação Orientada a Objetos (POO)**, **Estrutura de Dados** e **Arquitetura de Sistemas Web**.
 
 ---
 
-### 💻 Tecnologias
+### 🎓 Formação & Currículo Acadêmico
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VirtualBox-2B587A?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+Estou desenvolvendo competências fundamentais através da graduação em **Sistemas para Internet**. Minha grade atual foca em:
+
+* **💻 Engenharia de Software & POO (C# / .NET)**
+    * Domínio de encapsulamento, herança, polimorfismo e abstração.
+    * Aplicação de Design Patterns e princípios SOLID em projetos de laboratório.
+    * *Stack:* C#, .NET Core.
+
+* **🗄️ Banco de Dados e Modelagem (SQL)**
+    * Projeto e normalização de bancos de dados relacionais.
+    * Criação de queries complexas, Procedures e Triggers (PL/SQL).
+    * *Stack:* PostgreSQL, MySQL, Oracle.
+
+* **🌐 Desenvolvimento Web Full Stack**
+    * Arquitetura Client-Server e construção de APIs RESTful.
+    * Desenvolvimento de interfaces reativas e semânticas.
+    * *Stack:* TypeScript, React.js, NestJS, HTML5/CSS3.
+
+---
+
+### 🛠️ Stack Tecnológica (Laboratório)
+
+**Linguagens & Core**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Banco de Dados & Infra**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Web & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 🤝 Contato
+### 📊 Atividade Acadêmica
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/joaomagno1/joaomagno1/main/dist/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</p>
+
+---
+
+### 📫 Contato Profissional
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/magno1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/joaomagno1" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="mailto:joao27012006@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-NO-LINKEDIN">
-    <img src="https://img.shields
+</p>

@@ -1,7 +1,7 @@
 # João Magno
 ## Acadêmico em Tecnologia e Sistemas para Internet | IFSP
 
-Estudante de graduação no **Instituto Federal de São Paulo (Campus Birigui)**, focado na construção de uma base sólida em Engenharia de Software. Meu objetivo é transformar teoria acadêmica em código limpo, performático e escalável.
+Estudante do **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo**, focado na construção de uma base sólida em Engenharia de Software. Meu objetivo é transformar teoria acadêmica em código limpo, performático e escalável.
 
 ---
 
